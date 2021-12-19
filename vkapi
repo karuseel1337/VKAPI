@@ -1,0 +1,2 @@
+cd /data/data/com.termux/files/home/VKAPI
+python3 vk.py
